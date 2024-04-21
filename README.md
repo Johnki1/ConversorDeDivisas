@@ -41,20 +41,21 @@ CONVERSOR DE MONEDAS
 Digite el numero de la opcion que desea ejecutar
 Nuestras monedas principales
 
-Dólar =>> Peso Argentino
-Peso Argentino =>> Dólar
-Dólar =>> Real Brasileño
-Real Brasileño =>> Dólar
-Dólar =>> Peso Colombiano
-Peso Colombiano =>> Dólar
-Otro tipo de cambio
-Salir
-***************************
+1. Dólar =>> Peso Argentino
+2. Peso Argentino =>> Dólar
+3. Dólar =>> Real Brasileño
+4. Real Brasileño =>> Dólar
+5. Dólar =>> Peso Colombiano
+6. Peso Colombiano =>> Dólar
+7. Otro tipo de cambio
+8. Salir
+
 Digite el monto a convertir
 100
 Moneda Base: USD
 Moneda A Convertir: ARS
 Cantidad Convertida: 10100.00
+
 
 
 ## Notas
