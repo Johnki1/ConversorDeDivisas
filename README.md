@@ -62,6 +62,7 @@ Cantidad Convertida: 10100.00
 
 - El programa maneja errores en la entrada del usuario para garantizar una experiencia de usuario fluida.
 - Los registros de las conversiones se muestran al finalizar la ejecución del programa.
+- El codigo completo lo puedes encontrar en la rama master en la sesión src.
 
 ¡Gracias por utilizar nuestro conversor de divisas!
 
