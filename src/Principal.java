@@ -119,10 +119,12 @@ public class Principal {
 
                     default:
                         System.out.println("Ingrese una opcion valida");
+                        break;
 
                     case 8:
                         System.out.println("GRACIAS POR UTILIZAR NUESTROS SERVICIOS" +
                                 "\n\t**HASTA LA PROXIMA**");
+                        break;
 
                 }
             }catch (NumberFormatException e){
